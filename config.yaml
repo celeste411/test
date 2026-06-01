@@ -1,0 +1,7 @@
+name: Trading Bot
+version: "1.0.0"
+slug: trading_bot
+description: Runs Python trading bot with auto-restart
+startup: services
+boot: auto
+init: false
